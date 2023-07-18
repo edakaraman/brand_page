@@ -1,4 +1,4 @@
-# react-projects
+# figma-project
 <h2> Project 1 - Brand Page </h2>
 <p> Figma design transferred to code. </p>
 
